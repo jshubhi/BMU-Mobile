@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BmlSmartApp</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="about_desc">Named after the chairman and founder of the Hero Group, Brijmohan Lal Munjal, BML Munjal University is engaged in creating, preserving and imparting internationally benchmarked knowledge and skills to a diverse community of students from across the world. BMU’s aim is to nurture ethical leaders who are skilled, knowledgeable and have the life skills needed to lead organisations to success.</string>
+    <string name="mentored">MENTORED BY</string>
+    <string name="imperial">IMPERIAL COLLEGE LONDON</string>
+    <string name="shuttle">Shuttle</string>
+    <string name="faculty_directory">Faculty Directory</string>
+    <string name="events">Events</string>
+    <string name="emergency">Emergency</string>
+    <string name="student_clubs">Student Clubs</string>
+    <string name="campus_news">Campus News</string>
+    <string name="course">course</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="textview">TextView</string>
+    <string name="event_name">Event Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="venue">Venue</string>
+    <string name="event_description">Event Description</string>
+    <string name="contact">contact</string>
+    <string name="mentored_by_imperial_college_london">Mentored By : Imperial College London</string>
+</resources>

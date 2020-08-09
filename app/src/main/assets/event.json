@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "eventname": "Business Analytical Conclave",
+      "eventdate": "20th July,19",
+      "eventtime": "1:00pm",
+      "eventvenue": "Auditorium",
+      "eventdescription": "Business Conclave"
+    },
+    {
+      "eventname": "Orientation",
+      "eventdate": "21st July,19",
+      "eventtime": "11:00am",
+      "eventvenue": "MPH",
+      "eventdescription": "Activities for freshers"
+    },
+    {
+      "eventname": "Career Counselling Day",
+      "eventdate": "27th July,19",
+      "eventtime": "11:00am",
+      "eventvenue": "MPH",
+      "eventdescription": "Career Counselling"
+    },
+    {
+      "eventname": "Students Leadership Day",
+      "eventdate": "3rd August,19",
+      "eventtime": "11:00am",
+      "eventvenue": "MPH",
+      "eventdescription": ""
+    },
+    {
+      "eventname": "Independence Day Celebration",
+      "eventdate": "15th August,19",
+      "eventtime": "09:00am",
+      "eventvenue": "Front Lawn",
+      "eventdescription": "Flag Hoisting"
+    },
+    {
+      "eventname": "Hackathon",
+      "eventdate": "21-22nd September,19",
+      "eventtime": "09:00am",
+      "eventvenue": "NB-105",
+      "eventdescription": ""
+    },
+    {
+      "eventname": "Hero's Challenge",
+      "eventdate": "18-20th October",
+      "eventtime": "09:00am",
+      "eventvenue": "Respective Sports Venues",
+      "eventdescription": "BMU Sports Fest"
+    },
+    {
+      "eventname": "Startup Festival",
+      "eventdate": "13-14th November",
+      "eventtime": "09:00am",
+      "eventvenue": "Auditorium",
+      "eventdescription": "For training and placements"
+    },
+    {
+      "eventname": "Alumni Meet",
+      "eventdate": "21st November",
+      "eventtime": "09:00am",
+      "eventvenue": "Auditorium",
+      "eventdescription": ""
+    }
+  ]
+}

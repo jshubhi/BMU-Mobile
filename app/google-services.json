@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787890941592",
+    "firebase_url": "https://bmu-app-e6e04.firebaseio.com",
+    "project_id": "bmu-app-e6e04",
+    "storage_bucket": "bmu-app-e6e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787890941592:android:a5a217ae702a8469",
+        "android_client_info": {
+          "package_name": "com.example.namanjain.bmlsmartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787890941592-sr8vgi5vhljvs69sq1m0llga27krdnds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.namanjain.bmlsmartapp",
+            "certificate_hash": "18f573b782a009baf87329c99a297657b65e3fff"
+          }
+        },
+        {
+          "client_id": "787890941592-ej3t0bhhmoirokmic2aeai5efpj7i3fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQ8IzsY3rOfCsKmRo2DYin_ZECHrkWl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787890941592-ej3t0bhhmoirokmic2aeai5efpj7i3fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
